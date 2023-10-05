@@ -7,6 +7,7 @@ This dataset contains 119390 observations for _City Hotel_ and _Resort Hotel_. E
                                                                       **Requirements:-**
 
 **KPI CARDS:**
+
     *  Find Total number of cancelation in resort hotel and city hotel.
 
     *  Find Total number of not Cancelled in resort hotel and city hotel.
@@ -16,6 +17,7 @@ This dataset contains 119390 observations for _City Hotel_ and _Resort Hotel_. E
 **FILTER PANNEL:**
 
     *  Filter Our report data with Country wise and Month wise.
+
 
                                                                       **Charts Used in Our Dashboard::-**
     
